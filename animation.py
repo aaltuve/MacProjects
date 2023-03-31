@@ -1,4 +1,6 @@
+
 from tkinter import *
+import openai
 import matplotlib
 import matplotlib.animation as animation
 import matplotlib.pyplot as plt 
